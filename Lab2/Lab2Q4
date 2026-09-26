@@ -1,0 +1,9 @@
+#input--------------------------------
+
+last_name = str(input('enter your last name: '))
+age = int(input('enter your age: '))
+current_temp = float(input("enter the current temperature: "))
+
+print(last_name, age, current_temp)
+
+#-------------------------------------

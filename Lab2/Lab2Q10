@@ -1,0 +1,6 @@
+#divide 1 float with another and return a 2dp float
+
+float1 = float(input("enter the first float: "))
+float2 = float(input("enter the 2nd float: "))
+
+print(f"output: {format((float1/float2), '.2f')}")

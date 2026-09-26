@@ -1,0 +1,6 @@
+# output innputted float as scientific notation
+
+num1 = float(input("enter the number to convert to 1sf: "))
+print(f"converted num: {format(num1, ".1e")}")
+
+#-----------------------------------------------------

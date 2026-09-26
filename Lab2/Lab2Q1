@@ -1,0 +1,18 @@
+#---------------------------------------------------
+name = 'jonathan'
+print(name)
+
+listOfNums = [5, 2, -8, 9, 5.5, 7, 0]
+print(max(listOfNums))
+
+print("Python is great, it’s wild!")
+
+print(2**10)
+
+print("jonathan" * 5)
+
+print(format("jonathan" ,">15"))
+
+#def = 7 --> error
+
+#--------------------------------------------------

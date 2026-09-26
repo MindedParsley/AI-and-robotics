@@ -1,0 +1,12 @@
+# what are the values?
+
+k = 5
+print(k)
+num = 0 #--> value of num is 0
+print(num)
+num1 = k + num * 2 #--> value of num1 is 5+0*2 = 5
+print(num1)
+num2 = num + k * 2 #--> value of num2 is 0+5*2 = 10
+print(num2)
+
+#-----------------------------------------

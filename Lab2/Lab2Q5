@@ -1,0 +1,8 @@
+#printing to 2 decimal places
+
+num1 = int(input("enter your 1st integer: "))
+num2 = int(input("enter your 2nd integer: "))
+
+print(format(num1/num2, '.2f'))
+
+#---------------------------------------

@@ -11,7 +11,7 @@ print(2**10)
 
 print("jonathan" * 5)
 
-print(format("jonathan" ,">15"))
+print(format(name ,f"{15+len(name)}"))
 
 #def = 7 --> error
 

@@ -5,20 +5,14 @@ sign = input("what operation (+,-,*,/,//,%): ")
 
 match sign:
     case "+":
-        print(f"result: {num1+num2}")
-        break
+        print(f"result: {num1+num2}")        
     case "-":
-        print(f"result: {num1-num2}")
-        break
+        print(f"result: {num1-num2}")    
     case "*":
-        print(f"result: {num1*num2}")
-        break    
+        print(f"result: {num1*num2}")          
     case "/":
-        print(f"result: {num1/num2}")
-        break    
+        print(f"result: {num1/num2}")        
     case "//":
-        print(f"result: {num1//num2}")
-        break    
+        print(f"result: {num1//num2}") 
     case "%":
-        print(f"result: {num1%num2}")
-        break            
+        print(f"result: {num1%num2}")     

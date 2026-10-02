@@ -1,5 +1,0 @@
-#formating a string ----------------------
-
-print("Aston University\nThe Aston Triangle\nBirmingham, B4 7ET")
-
-#------------------------------------------

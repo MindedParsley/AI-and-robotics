@@ -1,7 +1,0 @@
-secondsDelayed = int(input("enter the amount of seconds delayed: "))
-
-hours = secondsDelayed//3600
-minuites = (secondsDelayed%3600)//60
-seconds = (secondsDelayed%3600)%60
-
-print(f"the train will be {hours}:{minuites}:{seconds} delayed")

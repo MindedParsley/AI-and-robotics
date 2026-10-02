@@ -1,0 +1,24 @@
+num1 = int(input("enter an integer value: "))
+num2 = int(input("enter another integer value: "))
+
+sign = input("what operation (+,-,*,/,//,%): ")
+
+match sign:
+    case "+":
+        print(f"result: {num1+num2}")
+        break
+    case "-":
+        print(f"result: {num1-num2}")
+        break
+    case "*":
+        print(f"result: {num1*num2}")
+        break    
+    case "/":
+        print(f"result: {num1/num2}")
+        break    
+    case "//":
+        print(f"result: {num1//num2}")
+        break    
+    case "%":
+        print(f"result: {num1%num2}")
+        break            

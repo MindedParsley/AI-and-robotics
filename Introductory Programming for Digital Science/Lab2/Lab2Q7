@@ -1,0 +1,34 @@
+import math
+
+
+# area of rectangle
+
+length = int(input("enter the length of the rectangle: "))
+width = int(input("enter the width of the rectangle: "))
+
+print(f"the recangles area is {length * width}")
+
+#difference in age
+
+superMansAge = int(input("enter supermans age: "))
+superGirlsAge = int(input("enter supergirls age: "))
+
+print(f"the age difference is {abs(superMansAge - superGirlsAge)}")
+
+#1st factorial - 2nd factorial
+num1 = int(input("enter the first num for factorial: "))
+num2 = int(input("enter the second num to factorial: "))
+
+print(f"{num1}! - {num2}! = {math.factorial(num1) - math.factorial(num2)}")
+
+# print pi to 5dp
+print(format(math.pi, ".5f"))
+
+#print the modulus between 2 int
+num1 = int(input("enter the 1st num: "))
+num2 = int(input("enter the 2nd num: "))
+print(f"the modulus of {num1}/{num2} is {num1%num2}")
+
+#convert a float to its int value
+num1 = float(input("enter a float: "))
+print(int(round(num1,0)))

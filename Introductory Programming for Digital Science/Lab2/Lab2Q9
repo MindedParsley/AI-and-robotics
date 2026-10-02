@@ -1,0 +1,8 @@
+#return float with 3dp of precision
+
+float1 = float(input("enter the float to output to 3dp: "))
+#a) no , sepatating every 3 digits
+print(f"output: {format(float1, '.3f')}")
+
+#b) , included
+print(f"output: {format(float1, ',.3f')}")

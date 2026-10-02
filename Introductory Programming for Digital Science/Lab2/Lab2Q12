@@ -1,0 +1,7 @@
+#convert the unicode number to its character equivilent
+
+uniCodeNum = int(input("enter a unicode num from 32-126: "))
+while uniCodeNum > 126 or uniCodeNum < 32:
+    uniCodeNum = int(input("enter a unicode num from 32-126: "))
+
+print(f"the converted char is {chr(uniCodeNum)}")

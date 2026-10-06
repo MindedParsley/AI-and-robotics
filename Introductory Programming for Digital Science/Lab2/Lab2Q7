@@ -6,7 +6,7 @@ import math
 length = int(input("enter the length of the rectangle: "))
 width = int(input("enter the width of the rectangle: "))
 
-print(f"the recangles area is {length * width}")
+print(f"the recangles perimeter is {(length + width) *2}")
 
 #difference in age
 

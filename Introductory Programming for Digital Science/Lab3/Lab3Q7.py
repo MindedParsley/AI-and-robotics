@@ -9,7 +9,7 @@ def improved_average(n1,n2,n3,n4,n5):
     print(f"mean:{(n1+n2+n3+n4+n5)/5}")
 
     #median
-    n_num = [n1, n2, n3, n4, n5] 
+    n_num = [n1, n2, n3, n4, n5].sort() 
     print(f"Median: {statistics.median(n_num)}")
 
     #mode

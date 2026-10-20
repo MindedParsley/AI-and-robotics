@@ -12,4 +12,4 @@ print(total)
 
 newlst = []
 for i in range(len(lst)):
-    newlst.apped(lst(len))
+    newlst.append(lst[len(lst)-i-1])

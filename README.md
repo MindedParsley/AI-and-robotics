@@ -8,4 +8,5 @@ lab 3: functions<br>
 lab 4: control structures<br>
 lab 5: data structures<br>
 lab 6: String Manipulation + Files<br>
-lab 7: Exceptions/Modules
+lab 7: Exceptions/Modules<br>
+lab 8: Dictionaries and Sets

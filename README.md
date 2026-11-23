@@ -9,4 +9,5 @@ lab 4: control structures<br>
 lab 5: data structures<br>
 lab 6: String Manipulation + Files<br>
 lab 7: Exceptions/Modules<br>
-lab 8: Dictionaries and Sets
+lab 8: Dictionaries and Sets<br>
+lab 9: basic python ui

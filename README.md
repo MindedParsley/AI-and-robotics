@@ -10,4 +10,5 @@ lab 5: data structures<br>
 lab 6: String Manipulation + Files<br>
 lab 7: Exceptions/Modules<br>
 lab 8: Dictionaries and Sets<br>
-lab 9: basic python ui
+lab 9: basic python ui<br>
+lab 10: web scraping<br>
